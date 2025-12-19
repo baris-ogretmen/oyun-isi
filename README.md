@@ -1,0 +1,2 @@
+# oyun-isi
+öyleyse 
